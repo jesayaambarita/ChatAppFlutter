@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "120650528696",
+    "firebase_url": "https://penjualan-112c8-default-rtdb.firebaseio.com",
+    "project_id": "penjualan-112c8",
+    "storage_bucket": "penjualan-112c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120650528696:android:574b0e19ebeb763e52814d",
+        "android_client_info": {
+          "package_name": "com.example.app_service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120650528696-sp95nibkp60kgfok487r0k9hhej7ap5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWR80lng6EDrwDeVMzt8z-wlSrmuqjB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120650528696-sp95nibkp60kgfok487r0k9hhej7ap5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120650528696:android:01af99d6b4f2761452814d",
+        "android_client_info": {
+          "package_name": "com.example.bookaplikasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120650528696-22i1a1umvn9o9r5864aj8k4pn6lr6v6h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookaplikasi",
+            "certificate_hash": "bc9ebe10e4027b01f8bcd6600b1e80afb50be845"
+          }
+        },
+        {
+          "client_id": "120650528696-sp95nibkp60kgfok487r0k9hhej7ap5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWR80lng6EDrwDeVMzt8z-wlSrmuqjB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120650528696-sp95nibkp60kgfok487r0k9hhej7ap5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-5897417839820392~8029618006"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120650528696:android:a4c29f5b726a142552814d",
+        "android_client_info": {
+          "package_name": "com.example.uber_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120650528696-5vrf0sj0ji5m6md4itnktfs4qmecbubv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.uber_clone",
+            "certificate_hash": "bc9ebe10e4027b01f8bcd6600b1e80afb50be845"
+          }
+        },
+        {
+          "client_id": "120650528696-sp95nibkp60kgfok487r0k9hhej7ap5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBeWR80lng6EDrwDeVMzt8z-wlSrmuqjB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120650528696-sp95nibkp60kgfok487r0k9hhej7ap5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
